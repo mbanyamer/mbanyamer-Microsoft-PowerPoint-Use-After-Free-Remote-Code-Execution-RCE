@@ -60,4 +60,4 @@ Mohammed Idrees Banyamer
 ## References
 
 - [Microsoft Security Update Guide](https://msrc.microsoft.com/update-guide)  
-- [Exploit-DB](https://www.exploit-db.com)  
+- [Exploit-DB](https://www.exploit-db.com/?author=12252)  
